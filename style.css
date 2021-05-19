@@ -1,0 +1,32 @@
+body{
+    background-color: burlywood;
+    text-align: center;
+}
+h1{
+    color: darkblue;
+    font-size:30px;
+}
+h2{
+    color: darkblue;
+    font-size:30px;
+}
+h3{
+    color: darkblue;
+    font-size:30px;
+}
+h4{
+    color: darkblue;
+    font-size:30px;
+}
+h5{
+    color: darkred;
+    font-size:50px;
+}
+#v{
+    font-size:30px;
+    color: darkblue;
+}
+#m{
+    font-size:30px;
+    color: darkblue;
+}
